@@ -22,7 +22,7 @@ const Index = () => {
       <SpaceBackground />
       <div className="text-center z-10">
         <h1 className="mb-4 text-4xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-          Cyber Chat 3D
+          VizTalk Chart Application
         </h1>
         <p className="text-xl text-muted-foreground">Loading...</p>
       </div>

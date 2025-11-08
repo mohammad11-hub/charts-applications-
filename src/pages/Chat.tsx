@@ -194,7 +194,7 @@ const Chat = () => {
         <Card className="p-4 bg-card/60 backdrop-blur-xl border-primary/30 shadow-[0_0_20px_rgba(0,217,255,0.2)]">
           <div className="flex items-center justify-between">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Cyber Chat 3D
+              VizTalk Chart Application
             </h1>
             <Button 
               variant="outline" 

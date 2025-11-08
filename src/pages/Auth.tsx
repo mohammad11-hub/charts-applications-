@@ -67,7 +67,7 @@ const Auth = () => {
       <Card className="w-full max-w-md border-primary/30 bg-card/80 backdrop-blur-xl shadow-[0_0_30px_rgba(0,217,255,0.3)]">
         <CardHeader className="space-y-1">
           <CardTitle className="text-3xl font-bold text-center bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-            Cyber Chat 3D
+             VizTalk Chart Application
           </CardTitle>
           <CardDescription className="text-center text-muted-foreground">
             Enter the future of communication
